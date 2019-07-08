@@ -1,0 +1,2 @@
+#!/bin/bash
+root php /var/www/html/laravel/artisan schedule:run vettingcron.sh
